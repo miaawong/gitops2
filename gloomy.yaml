@@ -15,8 +15,8 @@ data:
         This is a hidden value:
         </br>
         <ul>
-          <li>Hidden Text: 'uDZPie2PX8eifzV4Pqa3fX3jNuOwh0bBjW_DAkwJ'</li>
-          <li>Hidden Text 2: 'N3dJn3lOnZdbD9oD6ReyPBJ5CM3FxwkeR2XqMygz'</li>
+          <li>Hidden Text: '4qcG7Ugs73KHHeoVGXHNsrChqxvUn23j1z50sKqq'</li>
+          <li>Hidden Text 2: '559APfVEurf6W_AF50yWayBTIGq3uxbqHBJGKuHv'</li>
         </ul>
       </body>
     </html>
@@ -37,7 +37,7 @@ metadata:
 ---
 apiVersion: v1
 data:
-  .dockerconfigjson: eyJhdXRocyI6eyJwcm94eS5yZXBsaWNhdGVkLmNvbSI6eyJhdXRoIjoiTWtSQmIzZE9VbE5zZDFaa2RYcDFiMGxNT1hselZFcGtjMEZST2pKRVFXOTNUbEpUYkhkV1pIVjZkVzlKVERsNWMxUktaSE5CVVE9PSJ9LCJyZWdpc3RyeS5yZXBsaWNhdGVkLmNvbSI6eyJhdXRoIjoiTWtSQmIzZE9VbE5zZDFaa2RYcDFiMGxNT1hselZFcGtjMEZST2pKRVFXOTNUbEpUYkhkV1pIVjZkVzlKVERsNWMxUktaSE5CVVE9PSJ9fX0=
+  .dockerconfigjson: eyJhdXRocyI6eyJwcm94eS5yZXBsaWNhdGVkLmNvbSI6eyJhdXRoIjoiTWtRNVVrMVBNREJFWVhvNVNtVlNOM05wVFVwRGR6ZElVREpXT2pKRU9WSk5UekF3UkdGNk9VcGxVamR6YVUxS1EzYzNTRkF5Vmc9PSJ9LCJyZWdpc3RyeS5yZXBsaWNhdGVkLmNvbSI6eyJhdXRoIjoiTWtRNVVrMVBNREJFWVhvNVNtVlNOM05wVFVwRGR6ZElVREpXT2pKRU9WSk5UekF3UkdGNk9VcGxVamR6YVUxS1EzYzNTRkF5Vmc9PSJ9fX0=
 kind: Secret
 metadata:
   annotations:
@@ -54,7 +54,7 @@ type: kubernetes.io/dockerconfigjson
 ---
 apiVersion: v1
 data:
-  .dockerconfigjson: eyJhdXRocyI6eyJwcm94eS5yZXBsaWNhdGVkLmNvbSI6eyJhdXRoIjoiTWtSQmIzZE9VbE5zZDFaa2RYcDFiMGxNT1hselZFcGtjMEZST2pKRVFXOTNUbEpUYkhkV1pIVjZkVzlKVERsNWMxUktaSE5CVVE9PSJ9LCJyZWdpc3RyeS5yZXBsaWNhdGVkLmNvbSI6eyJhdXRoIjoiTWtSQmIzZE9VbE5zZDFaa2RYcDFiMGxNT1hselZFcGtjMEZST2pKRVFXOTNUbEpUYkhkV1pIVjZkVzlKVERsNWMxUktaSE5CVVE9PSJ9fX0=
+  .dockerconfigjson: eyJhdXRocyI6eyJwcm94eS5yZXBsaWNhdGVkLmNvbSI6eyJhdXRoIjoiTWtRNVVrMVBNREJFWVhvNVNtVlNOM05wVFVwRGR6ZElVREpXT2pKRU9WSk5UekF3UkdGNk9VcGxVamR6YVUxS1EzYzNTRkF5Vmc9PSJ9LCJyZWdpc3RyeS5yZXBsaWNhdGVkLmNvbSI6eyJhdXRoIjoiTWtRNVVrMVBNREJFWVhvNVNtVlNOM05wVFVwRGR6ZElVREpXT2pKRU9WSk5UekF3UkdGNk9VcGxVamR6YVUxS1EzYzNTRkF5Vmc9PSJ9fX0=
 kind: Secret
 metadata:
   annotations:
